@@ -6,26 +6,18 @@
 Here are some ideas to get you started:
 -->
 ### Tools
-<a href="https://isocpp.org/">
-  <img src="https://i.imgur.com/Ao2P8iG.png" alt="C++" width="50"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://i.imgur.com/zINUxVf.png" alt="C" width="50"/>
-</a>
-<a href="https://www.wikiwand.com/en/Bash_(Unix_shell)">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
-</a>
-<!-- <a href="https://www.docker.com/">
-  <img src="https://i.imgur.com/VyjCJuz.png" alt="Docker" height="50"/>
-</a> -->
-<a href="https://en.wikipedia.org/wiki/Linux">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50"/>
-</a>
-<a href="https://neovim.io/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/196px-Neovim-mark-flat.svg.png" alt="Neovim" height="50"/>
-</a>
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=ccleaner&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### ___
 - 🌱 I’m currently studing in "School 21"...
+- 🎯 I’m currently learning Golang / PostgreSQL / DevOps
 
+### Connect with me
+[![Telegram contact][telegram_badge]][telegram_link]
 
+[telegram_link]: https://t.me/ale_bal
+[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
